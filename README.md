@@ -1,5 +1,9 @@
-Two problems:
+CMPUT410W14T07
+==============
+Project: Distributed Social Networking
 
-1. Does not test database
+Contributors / Licensing
+==============
+Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle, Guanqi Huang, Shihao Xu, Yuwei Duan, Zhao Zhang, Ouwen Zha.
 
-2. close module change select default value
+All text is licensed under the CC-BY-SA 4.0 http://creativecommons.org/licenses/by-sa/4.0/deed.en_US
